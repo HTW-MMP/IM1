@@ -1,6 +1,6 @@
 # IM1
 Dateien Interaktive Medien 1
-## Web-Entwicklung
+## Web-Entwicklung (Ordner CSS()
 HTML- und CSS-Dateien
-## Web-Applikationen
+## Web-Applikationen (Ordner javascript)
 Javascript-Dateien
